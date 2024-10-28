@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
                 return true
             }
             R.id.menuEdit -> {
-                showMessage("Edit Menu")
+                showMessage("Edit menu")
                 return true
             }
             R.id.menuHelp -> {
