@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
                 return true
             }
             R.id.menuExit -> {
-                showMessage("Exit")
+                showMessage("Exit Menu")
                 return true
             }
         }
